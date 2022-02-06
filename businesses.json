@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Star Wars: Rise of the Resistance",
+                "BusType": "Galaxy's Edge",
+                "Description": "Gimme espresso bars are found in New York City and Upstate New York."
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.560435, 28.354810]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "Name": "Millennium Falcon: Smuggler's Run",
+               "BusType": "Galaxy's Edge",
+                "Description": "Specializes in spatial and environmental data analysis and statistics, geographic information systems and custom data design."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.561821, 28.353782]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mickey & Minnie's Runaway Railway",
+               "BusType": "Hollywood Boulevard",
+                "Description": "Inn and cocktail bar in a beautifully restored historic mansion."
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.560642, 28.356747]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "Name": "Toy Story Mania",
+               "BusType": "Toy Story Land",
+                "Description": "Inn and cocktail bar in a beautifully restored historic mansion."
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.561941, 28.356480]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "Name": "Star Tours: The Adventures Continue",
+               "BusType": "Echo Lake",
+                "Description": "Inn and cocktail bar in a beautifully restored historic mansion."
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.558956, 28.355575]
+            }
+        }
+
+
+    ]
+
+}
